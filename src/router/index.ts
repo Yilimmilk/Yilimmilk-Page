@@ -27,6 +27,12 @@ export default createRouter({
       meta: { url: 'http://chat.mapotofu.cn' },
     },
     {
+      path: '/leshouyi',
+      name: 'leshouyi',
+      component: () => import('@/components/ExternalRedirect.vue'),
+      meta: { url: 'http://www.leshouyi.mapotofu.cn' },
+    },
+    {
       path: '/projects',
       name: 'projects',
       children: [

@@ -7,6 +7,7 @@
         "blog": "Blog",
         "cloud": "Cloud Storage",
         "gpt": "GPT",
+        "leShouYi": "LeShouYi",
         "goHome": "Go Home",
         "waitRedirect": "Redirecting, please wait...",
         "technologyStack": "Technology Stack"
@@ -18,7 +19,7 @@
         "intro": "Profile",
         "hiThere": "This is Tofu, you can also call me Eli (a play on the name's sound) ha",
         "locate": "Located in Wuhan (China)",
-        "status": "Undergraduate",
+        "status": "Employee",
         "sex": "Male",
         "content1": "An independent developer, knowledgeable in both front-end and back-end, also a bit into embedded systems, sometimes I like to design some boards for fun.",
         "content2": "Badminton, cycling, traveling, singing... these are my hobbies～"

@@ -141,15 +141,22 @@ const drawerItemList = ref<Array<{ path: string, icon: string, color: string, va
     color: '#86c166',
     value: 'commons.gpt',
   },
+
+  {
+    path: '/leshouyi',
+    icon: 'mdi-toy-brick-search',
+    color: '#19448e',
+    value: 'commons.leShouYi',
+  },
 ]);
 // language options list
 const languageOptions = ref([
   {
-    label: '简体中文',
+    label: '普通话',
     key: 'zh-CN'
   },
   {
-    label: '繁體中文（粵語）',
+    label: '粵語',
     key: 'zh-HK'
   },
   {
